@@ -169,6 +169,9 @@ button {
 .nav__link:hover {
   color: var(--text-color);
 }
+.nav .active-link-1 {
+  color: yellow;
+}
 .nav__link, .nav__logo, .nav__toggle, .nav__close {
   color: var(--title-color);
 }
@@ -231,6 +234,7 @@ button {
   font-weight: var(--font-black);
   line-height: 109%;
   margin-bottom: var(--mb-1);
+  color: blue;
 }
 .swiper-slide .home__content .home__data .home__description {
   margin-bottom: var(--mb-1);
@@ -298,6 +302,10 @@ button {
   width: 180px;
   height: 180px;
   border: 6px solid;
+}
+
+.category__title-2 {
+  color: purple;
 }
 
 .newsletter__description {

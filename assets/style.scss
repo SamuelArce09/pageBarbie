@@ -184,6 +184,9 @@ button {
             color: var(--text-color);
         }
     }
+    .active-link-1 {
+        color: yellow;
+    }
 
     &__link,
     &__logo,
@@ -256,6 +259,7 @@ button {
                 font-weight: var(--font-black);
                 line-height: 109%;
                 margin-bottom: var(--mb-1);
+                color: blue;
             }
             .home__description {
                 margin-bottom: var(--mb-1);
@@ -331,6 +335,9 @@ button {
             border: 6px solid;
         }
     }
+}
+.category__title-2 {
+    color: purple;
 }
 //Deja tu correo 
 .newsletter__description {
