@@ -1,0 +1,1 @@
+estos estilos se ejecutaran con sass esta pagina tiene un efecto de imagen tiene un boton que dice reservar ahora abjo tiene los actores principáles abajo tiene un boton de suscribirse y un espacio para escribiur tu correo electronico y abajo hablan sobre los creadores
